@@ -2,8 +2,10 @@
 
 _Для переноса на новую строку в конце предыдущей строки необходимо добавлять два пробела. Это чтобы README.md корректно отображался на github_
 
-“Success is the sum of small efforts, repeated day in and day out.”―  Robert Collie  
+"Such is thy name with this my verse entwined;" - but this one is Lord Byron
 
+“Success is the sum of small efforts, repeated day in and day out.”―  Robert Collie  
+H
 Hello, friend...
 Greetings from Tegridy Farms!!!  
 Hello from Melitopol  
